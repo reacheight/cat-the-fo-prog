@@ -17,6 +17,7 @@
 
     <ItemGroup>
         <Compile Include="PartOne\EssenceOfCompositionTest.fs" />
+        <Compile Include="PartOne\TypesAndFunctionsTest.fs" />
         <Compile Include="Program.fs" />
     </ItemGroup>
 
